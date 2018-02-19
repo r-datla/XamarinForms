@@ -1,0 +1,16 @@
+/Users/rijuthadatla/Projects/formsPhoneCall/formsPhoneCall/bin/Debug/formsPhoneCall.dll
+/Users/rijuthadatla/Projects/formsPhoneCall/formsPhoneCall/bin/Debug/formsPhoneCall.pdb
+/Users/rijuthadatla/Projects/formsPhoneCall/formsPhoneCall/bin/Debug/Xamarin.Forms.Core.dll
+/Users/rijuthadatla/Projects/formsPhoneCall/formsPhoneCall/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/rijuthadatla/Projects/formsPhoneCall/formsPhoneCall/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/rijuthadatla/Projects/formsPhoneCall/formsPhoneCall/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/rijuthadatla/Projects/formsPhoneCall/formsPhoneCall/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/rijuthadatla/Projects/formsPhoneCall/formsPhoneCall/bin/Debug/Xamarin.Forms.Core.xml
+/Users/rijuthadatla/Projects/formsPhoneCall/formsPhoneCall/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/rijuthadatla/Projects/formsPhoneCall/formsPhoneCall/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/rijuthadatla/Projects/formsPhoneCall/formsPhoneCall/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/rijuthadatla/Projects/formsPhoneCall/formsPhoneCall/obj/Debug/formsPhoneCall.csprojResolveAssemblyReference.cache
+/Users/rijuthadatla/Projects/formsPhoneCall/formsPhoneCall/obj/Debug/formsPhoneCall.csproj.CoreCompileInputs.cache
+/Users/rijuthadatla/Projects/formsPhoneCall/formsPhoneCall/obj/Debug/formsPhoneCall.App.xaml.g.cs
+/Users/rijuthadatla/Projects/formsPhoneCall/formsPhoneCall/obj/Debug/formsPhoneCall.dll
+/Users/rijuthadatla/Projects/formsPhoneCall/formsPhoneCall/obj/Debug/formsPhoneCall.pdb

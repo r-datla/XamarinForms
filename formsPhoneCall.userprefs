@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{A41B71CE-B0BF-4041-B578-02D3EAC426CA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="formsPhoneCall/MainPage.cs">
+    <Files>
+      <File FileName="formsPhoneCall/App.xaml.cs" Line="11" Column="36" />
+      <File FileName="formsPhoneCall/MainPage.cs" Line="7" Column="5" />
+      <File FileName="Droid/PhoneDialer.Droid.cs" Line="15" Column="16" />
+      <File FileName="iOS/PhoneDialer.iOS.cs" Line="5" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.formsPhoneCall.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D3E64F95-49CB-4E71-AB5F-C2EA45F81C3D">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.formsPhoneCall.iOS>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
